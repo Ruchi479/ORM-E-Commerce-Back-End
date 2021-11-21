@@ -16,12 +16,12 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-View video to see MySQL walk through via [Screencastify]()<br>
-View video to walk through of the API routes. [Screencastify]()<br>
-View video to see Insomnia walk through via [Screencastify]()
+View video to see MySQL walk through via [Screencastify](https://watch.screencastify.com/v/20wTaqHZczurKU4XouL8)<br>
+View video to walk through of the API routes in Insomnia. [Screencastify](https://watch.screencastify.com/v/5v25kBlrSNtyu4vrWdNc)
+
 
 ## Screenshots 
-![E-Commerce Backend]()
+![E-Commerce Backend](./assets/images/img.jpg)
 
 ## Contributing 
 Contributors should read the installation section. 
